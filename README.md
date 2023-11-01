@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/JustinCally/dojob/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JustinCally/dojob/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/JustinCally/dojob/branch/main/graph/badge.svg)](https://app.codecov.io/gh/JustinCally/dojob?branch=main)
 <!-- badges: end -->
 
 The goal of dojob is to provide compliments
@@ -31,5 +33,5 @@ library(dojob)
 
 ``` r
 provide_compliments()
-#> [1] "Paul is very friendly"
+#> [1] "Cindy is wealthy"
 ```
